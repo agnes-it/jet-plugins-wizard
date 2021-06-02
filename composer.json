@@ -1,0 +1,7 @@
+{
+    "name": "agnes-it/jet-plugins-wizard",
+    "description": "jet plugins wizard",
+    "require": {
+        "php": ">=7.4"
+    }
+}
